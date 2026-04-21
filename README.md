@@ -15,7 +15,7 @@ Este proyecto implementa un modelo de Machine Learning para predecir la calidad 
 * **Interfaz y Deploy:** Streamlit
 
 ## 🚀 Demo
-Podés probar la aplicación interactiva en vivo aquí: ``
+Podés probar la aplicación interactiva en vivo aquí: https://quality-prediction-wine.streamlit.app
 
 ## Cómo ejecutarlo localmente
 1. Clonar el repositorio.
